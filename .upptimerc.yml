@@ -10,7 +10,6 @@ assignees: simon2871 # Users to assign downtime issues (optional)
 status-website: # Status website (optional)
   baseUrl: /fs-websitemonitor # where "repo" is your repository name
 # cname: upptime.js.org # Custom domain CNAME
-  name: Your Status Website
   name: Full Steam Monitoring # Status website title
   introTitle: "Full Steam Monitors the following websites for critical errors."
   introMessage: Website outages are automatically turned into problem tickets.
