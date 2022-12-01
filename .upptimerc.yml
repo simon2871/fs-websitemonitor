@@ -5,10 +5,17 @@ sites: # List of endpoints to track
     url: https://www.google.com
   - name: Full Steam
     url: https://$FS_SITE1/
+    __dangerous__body_down: "File not found"
+    __dangerous__body_down: "There has been a critical error on your website"
+    __dangerous__body_down: "critical error"
 assignees: simon2871 # Users to assign downtime issues (optional)
-#status-website: # Status website (optional)
-# cname: upptime.js.org # Custom domain CNAME
-#name: Upptime # Status website title
-status-website:
+status-website: # Status website (optional)
   baseUrl: /fs-websitemonitor # where "repo" is your repository name
+# cname: upptime.js.org # Custom domain CNAME
   name: Your Status Website
+  name: Full Steam Monitoring # Status website title
+  introTitle: "Full Steam Monitors the following websites for critical errors."
+  introMessage: Website outages are automatically turned into problem tickets.
+  metaTags:
+    - name: "robots"
+      content: "noindex"
