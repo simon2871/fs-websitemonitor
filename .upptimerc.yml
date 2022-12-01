@@ -5,9 +5,7 @@ sites: # List of endpoints to track
     url: https://www.google.com
   - name: Full Steam
     url: https://$FS_SITE1/
-    __dangerous__body_down: "File not found"
     __dangerous__body_down: "There has been a critical error on your website"
-    __dangerous__body_down: "critical error"
 assignees: simon2871 # Users to assign downtime issues (optional)
 status-website: # Status website (optional)
   baseUrl: /fs-websitemonitor # where "repo" is your repository name
