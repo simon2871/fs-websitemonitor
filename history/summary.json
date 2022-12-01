@@ -22,19 +22,19 @@
     "url": "https://$CA_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "cloud-assess",
-    "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.07%",
+    "uptimeDay": "4.07%",
+    "uptimeWeek": "4.07%",
+    "uptimeMonth": "4.07%",
+    "uptimeYear": "4.07%",
+    "time": 399,
+    "timeDay": 399,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {
-      "2022-12-01": 1
+      "2022-12-01": 23
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://$SZ_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "snow-boards-nz",
-    "status": "down",
-    "uptime": "7.60%",
-    "uptimeDay": "7.60%",
-    "uptimeWeek": "7.60%",
-    "uptimeMonth": "7.60%",
-    "uptimeYear": "7.60%",
-    "time": 1245,
-    "timeDay": 1245,
-    "timeWeek": 1245,
-    "timeMonth": 1245,
-    "timeYear": 1245,
+    "status": "up",
+    "uptime": "1.50%",
+    "uptimeDay": "1.50%",
+    "uptimeWeek": "1.50%",
+    "uptimeMonth": "1.50%",
+    "uptimeYear": "1.50%",
+    "time": 3113,
+    "timeDay": 3113,
+    "timeWeek": 3113,
+    "timeMonth": 3113,
+    "timeYear": 3113,
     "dailyMinutesDown": {
-      "2022-12-01": 1
+      "2022-12-01": 23
     }
   },
   {
