@@ -3,7 +3,7 @@ repo: fs-websitemonitor # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
-  - name: echo "${{ secrets.FS_SITE1 }}"
+  - name: Full Steam
     url: https://$FS_SITE1/
 assignees: simon2871 # Users to assign downtime issues (optional)
 #status-website: # Status website (optional)
