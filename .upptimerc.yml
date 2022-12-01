@@ -1,12 +1,47 @@
 owner: simon2871 # GitHub username
 repo: fs-websitemonitor # GitHub repository name
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
   - name: Full Steam
     url: https://$FS_SITE1/
     __dangerous__body_down: "There has been a critical error on your website"
-assignees: simon2871 # Users to assign downtime issues (optional)
+  - name: Cloud Assess
+    url: https://$CA_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Web English
+    url: https://$WE_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: James Finance
+    url: https://$JF_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Hailer Rail
+    url: https://$HR_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Pro Safe
+    url: https://$PS_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Lyson NZ
+    url: https://$LZ_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Lyson Au
+    url: https://$LA_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Hailer Training
+    url: https://$HT_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Snow Boards NZ
+    url: https://$SZ_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Victoris Webby
+    url: https://$VW_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Dunn Right
+    url: https://$DR_SITE1/	
+    __dangerous__body_down: "There has been a critical error on your website"
+  - name: Metrocopiers
+    url: https://$MC_SITE1/
+    __dangerous__body_down: "There has been a critical error on your website"
+assignees: # Users to assign downtime issues (optional)
+  - simon2871
 status-website: # Status website (optional)
   baseUrl: /fs-websitemonitor # where "repo" is your repository name
 # cname: upptime.js.org # Custom domain CNAME
