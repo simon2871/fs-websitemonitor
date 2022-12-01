@@ -6,8 +6,8 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 #status-website: # Status website (optional)
- # cname: upptime.js.org # Custom domain CNAME
-  #name: Upptime # Status website title
-  status-website:
+# cname: upptime.js.org # Custom domain CNAME
+#name: Upptime # Status website title
+status-website:
   baseUrl: /fs-websitemonitor # where "repo" is your repository name
   name: Your Status Website
