@@ -190,19 +190,19 @@
     "url": "https://$VW_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "71.67%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
-    "time": 6664,
-    "timeDay": 6394,
-    "timeWeek": 5816,
-    "timeMonth": 6664,
-    "timeYear": 6664,
+    "status": "up",
+    "uptime": "96.92%",
+    "uptimeDay": "68.12%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "96.92%",
+    "time": 6425,
+    "timeDay": 5733,
+    "timeWeek": 5568,
+    "timeMonth": 6425,
+    "timeYear": 6425,
     "dailyMinutesDown": {
-      "2022-12-11": 408
+      "2022-12-11": 459
     }
   },
   {
