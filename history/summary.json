@@ -78,18 +78,20 @@
     "url": "https://$HR_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hailer-rail",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 8577,
     "timeDay": 9149,
     "timeWeek": 8261,
     "timeMonth": 8577,
     "timeYear": 8577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-11": 1
+    }
   },
   {
     "name": "Pro Safe",
@@ -191,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.45%",
+    "uptimeDay": "84.29%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 7025,
     "timeDay": 8294,
     "timeWeek": 6146,
     "timeMonth": 7025,
     "timeYear": 7025,
     "dailyMinutesDown": {
-      "2022-12-11": 0
+      "2022-12-11": 226
     }
   },
   {
