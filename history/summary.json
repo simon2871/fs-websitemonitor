@@ -79,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hailer-rail",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 8677,
     "timeDay": 9466,
     "timeWeek": 8451,
     "timeMonth": 8677,
     "timeYear": 8677,
-    "dailyMinutesDown": {
-      "2022-12-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pro Safe",
@@ -192,19 +190,19 @@
     "url": "https://$VW_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "83.97%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
-    "time": 7025,
-    "timeDay": 8294,
-    "timeWeek": 6146,
-    "timeMonth": 7025,
-    "timeYear": 7025,
+    "status": "up",
+    "uptime": "97.23%",
+    "uptimeDay": "71.68%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.23%",
+    "time": 6729,
+    "timeDay": 6588,
+    "timeWeek": 5816,
+    "timeMonth": 6729,
+    "timeYear": 6729,
     "dailyMinutesDown": {
-      "2022-12-11": 231
+      "2022-12-11": 408
     }
   },
   {
