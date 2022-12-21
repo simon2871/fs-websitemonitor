@@ -191,14 +191,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "up",
-    "uptime": "74.19%",
-    "uptimeDay": "72.60%",
-    "uptimeWeek": "52.03%",
-    "uptimeMonth": "74.19%",
-    "uptimeYear": "74.19%",
+    "uptime": "74.48%",
+    "uptimeDay": "80.80%",
+    "uptimeWeek": "53.96%",
+    "uptimeMonth": "74.48%",
+    "uptimeYear": "74.48%",
     "time": 6119,
-    "timeDay": 5359,
-    "timeWeek": 5923,
+    "timeDay": 5370,
+    "timeWeek": 5875,
     "timeMonth": 6119,
     "timeYear": 6119,
     "dailyMinutesDown": {
@@ -237,9 +237,9 @@
     "url": "https://$MC_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "metrocopiers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -248,6 +248,8 @@
     "timeWeek": 1110,
     "timeMonth": 1302,
     "timeYear": 1302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-21": 0
+    }
   }
 ]
