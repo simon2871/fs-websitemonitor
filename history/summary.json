@@ -60,10 +60,10 @@
     "url": "https://$JF_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "james-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4420,
@@ -71,7 +71,9 @@
     "timeWeek": 4230,
     "timeMonth": 4125,
     "timeYear": 4420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 1
+    }
   },
   {
     "name": "Hailer Rail",
@@ -193,14 +195,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "up",
-    "uptime": "61.91%",
+    "uptime": "62.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.83%",
+    "uptimeWeek": "75.47%",
     "uptimeMonth": "50.28%",
-    "uptimeYear": "61.91%",
+    "uptimeYear": "62.05%",
     "time": 5953,
     "timeDay": 7641,
-    "timeWeek": 6650,
+    "timeWeek": 6585,
     "timeMonth": 5897,
     "timeYear": 5953,
     "dailyMinutesDown": {
