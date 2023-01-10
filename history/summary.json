@@ -60,10 +60,10 @@
     "url": "https://$JF_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "james-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 4406,
@@ -72,7 +72,7 @@
     "timeMonth": 4115,
     "timeYear": 4406,
     "dailyMinutesDown": {
-      "2023-01-10": 29
+      "2023-01-10": 30
     }
   },
   {
@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "up",
-    "uptime": "62.07%",
+    "uptime": "62.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.76%",
+    "uptimeWeek": "78.43%",
     "uptimeMonth": "50.28%",
-    "uptimeYear": "62.07%",
+    "uptimeYear": "62.24%",
     "time": 5953,
     "timeDay": 7641,
     "timeWeek": 6585,
