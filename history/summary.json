@@ -44,28 +44,30 @@
     "url": "https://$WE_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "web-english",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1546,
     "timeDay": 1554,
     "timeWeek": 1439,
     "timeMonth": 1485,
     "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-12": 4
+    }
   },
   {
     "name": "James Finance",
     "url": "https://$JF_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "james-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 4372,
@@ -74,6 +76,7 @@
     "timeMonth": 4092,
     "timeYear": 4372,
     "dailyMinutesDown": {
+      "2023-01-12": 3,
       "2023-01-10": 29
     }
   },
@@ -100,11 +103,11 @@
     "url": "https://$PS_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "pro-safe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 6434,
     "timeDay": 5398,
@@ -112,6 +115,7 @@
     "timeMonth": 6487,
     "timeYear": 6434,
     "dailyMinutesDown": {
+      "2023-01-12": 2,
       "2023-01-04": 19
     }
   },
@@ -120,10 +124,10 @@
     "url": "https://$LZ_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "lyson-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1418,
@@ -131,7 +135,9 @@
     "timeWeek": 1448,
     "timeMonth": 1449,
     "timeYear": 1418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-12": 2
+    }
   },
   {
     "name": "Lyson Au",
@@ -158,10 +164,10 @@
     "url": "https://$HT_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "hailer-training",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3802,
@@ -169,7 +175,9 @@
     "timeWeek": 4157,
     "timeMonth": 3813,
     "timeYear": 3802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-12": 1
+    }
   },
   {
     "name": "Snow Boards NZ",
@@ -197,15 +205,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "up",
-    "uptime": "63.99%",
+    "uptime": "64.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.76%",
-    "uptimeYear": "63.99%",
+    "uptimeMonth": "53.51%",
+    "uptimeYear": "64.30%",
     "time": 5965,
     "timeDay": 7434,
     "timeWeek": 7756,
-    "timeMonth": 5899,
+    "timeMonth": 5923,
     "timeYear": 5965,
     "dailyMinutesDown": {
       "2023-01-05": 193,
@@ -241,9 +249,9 @@
     "url": "https://$DR_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "dunn-right",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -252,7 +260,9 @@
     "timeWeek": 5828,
     "timeMonth": 4442,
     "timeYear": 4761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-12": 0
+    }
   },
   {
     "name": "Metrocopiers",
