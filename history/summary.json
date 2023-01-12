@@ -4,9 +4,9 @@
     "url": "https://$FS_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "full-steam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "90.71%",
+    "uptimeDay": "90.66%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.78%",
@@ -16,7 +16,7 @@
     "timeMonth": 3413,
     "timeYear": 3411,
     "dailyMinutesDown": {
-      "2023-01-12": 134
+      "2023-01-12": 135
     }
   },
   {
@@ -205,11 +205,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "up",
-    "uptime": "64.31%",
+    "uptime": "64.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "53.51%",
-    "uptimeYear": "64.31%",
+    "uptimeYear": "64.34%",
     "time": 5965,
     "timeDay": 7434,
     "timeWeek": 7756,
