@@ -144,11 +144,11 @@
     "url": "https://$LA_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "lyson-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "94.98%",
+    "uptimeDay": "94.94%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.86%",
     "time": 4948,
     "timeDay": 7219,
@@ -156,7 +156,7 @@
     "timeMonth": 4991,
     "timeYear": 4948,
     "dailyMinutesDown": {
-      "2023-01-14": 56,
+      "2023-01-14": 57,
       "2023-01-13": 17,
       "2022-12-09": 18
     }
@@ -210,7 +210,7 @@
     "uptime": "65.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.84%",
+    "uptimeMonth": "56.87%",
     "uptimeYear": "65.68%",
     "time": 5988,
     "timeDay": 7804,
