@@ -40,7 +40,8 @@ sites: # List of endpoints to track
   - name: Metrocopiers
     url: https://$MC_SITE1/
     __dangerous__body_down: "There has been a critical error on your website"
-  - url: https://$AN_SITE1/
+  - name: ANIBT
+    url: https://$AN_SITE1/
     __dangerous__body_down: "There has been a critical error on your website"
 assignees: # Users to assign downtime issues (optional)
   - simon2871
