@@ -228,11 +228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "victoris-webby",
     "status": "up",
-    "uptime": "85.31%",
+    "uptime": "85.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "85.31%",
+    "uptimeYear": "85.35%",
     "time": 7120,
     "timeDay": 10752,
     "timeWeek": 9959,
@@ -274,10 +274,10 @@
     "url": "https://$DR_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "dunn-right",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.89%",
     "time": 5271,
@@ -286,6 +286,7 @@
     "timeMonth": 6269,
     "timeYear": 5271,
     "dailyMinutesDown": {
+      "2023-03-15": 1,
       "2023-03-13": 99,
       "2023-01-14": 41,
       "2023-01-12": 22
@@ -317,9 +318,9 @@
     "url": "https://$AN_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "anibt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -329,6 +330,7 @@
     "timeMonth": 1506,
     "timeYear": 1644,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-01-25": 22
     }
   }
