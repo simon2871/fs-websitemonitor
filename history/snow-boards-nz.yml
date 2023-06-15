@@ -1,7 +1,7 @@
 url: https://$SZ_SITE1/
-status: up
-code: 200
-responseTime: 5839
-lastUpdated: 2023-06-14T23:18:01.567Z
+status: down
+code: 503
+responseTime: 1103
+lastUpdated: 2023-06-15T05:46:30.282Z
 startTime: Thu Dec 01 2022 08:15:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
