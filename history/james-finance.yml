@@ -1,7 +1,7 @@
 url: https://$JF_SITE1/
-status: down
-code: 503
-responseTime: 785
-lastUpdated: 2023-07-18T06:32:16.194Z
+status: up
+code: 200
+responseTime: 4882
+lastUpdated: 2023-07-18T06:38:38.177Z
 startTime: Thu Dec 01 2022 08:15:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
