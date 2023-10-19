@@ -1,7 +1,7 @@
 url: https://$FS_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-19T13:41:24.953Z
+status: up
+code: 200
+responseTime: 7393
+lastUpdated: 2023-10-19T13:46:22.166Z
 startTime: 2022-12-01T03:51:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
