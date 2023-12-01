@@ -13,7 +13,7 @@
     "time": 3362,
     "timeDay": 3819,
     "timeWeek": 4023,
-    "timeMonth": 3329,
+    "timeMonth": 3236,
     "timeYear": 3362,
     "dailyMinutesDown": {
       "2023-06-12": 55,
@@ -44,12 +44,11 @@
     "time": 762,
     "timeDay": 1653,
     "timeWeek": 1703,
-    "timeMonth": 1648,
+    "timeMonth": 1637,
     "timeYear": 762,
     "dailyMinutesDown": {
       "2023-07-26": 16,
-      "2023-03-31": 65,
-      "2022-12-01": 23
+      "2023-03-31": 65
     }
   },
   {
@@ -66,7 +65,7 @@
     "time": 1508,
     "timeDay": 1609,
     "timeWeek": 1513,
-    "timeMonth": 1450,
+    "timeMonth": 1442,
     "timeYear": 1508,
     "dailyMinutesDown": {
       "2023-07-05": 31,
@@ -91,7 +90,7 @@
     "time": 4702,
     "timeDay": 6109,
     "timeWeek": 5392,
-    "timeMonth": 4804,
+    "timeMonth": 4788,
     "timeYear": 4702,
     "dailyMinutesDown": {
       "2023-07-05": 30,
@@ -110,17 +109,18 @@
     "slug": "hailer-rail",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 10793,
     "timeDay": 12560,
     "timeWeek": 13330,
-    "timeMonth": 13133,
+    "timeMonth": 13138,
     "timeYear": 10793,
     "dailyMinutesDown": {
-      "2023-11-30": 1,
+      "2023-12-01": 17,
+      "2023-11-30": 16,
       "2023-10-24": 24,
       "2023-07-21": 22,
       "2023-07-05": 30,
@@ -147,7 +147,7 @@
     "time": 8644,
     "timeDay": 9689,
     "timeWeek": 8549,
-    "timeMonth": 8369,
+    "timeMonth": 8357,
     "timeYear": 8644,
     "dailyMinutesDown": {
       "2023-07-05": 30,
@@ -170,13 +170,13 @@
     "status": "up",
     "uptime": "85.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.67%",
-    "uptimeMonth": "12.28%",
+    "uptimeWeek": "61.99%",
+    "uptimeMonth": "15.64%",
     "uptimeYear": "85.73%",
     "time": 3015,
     "timeDay": 3096,
     "timeWeek": 3059,
-    "timeMonth": 1455,
+    "timeMonth": 1469,
     "timeYear": 3015,
     "dailyMinutesDown": {
       "2023-11-28": 21,
@@ -263,7 +263,7 @@
     "time": 3906,
     "timeDay": 1792,
     "timeWeek": 1496,
-    "timeMonth": 2108,
+    "timeMonth": 2116,
     "timeYear": 3906,
     "dailyMinutesDown": {
       "2023-11-26": 55,
@@ -304,7 +304,7 @@
     "time": 4566,
     "timeDay": 7055,
     "timeWeek": 5679,
-    "timeMonth": 5046,
+    "timeMonth": 5066,
     "timeYear": 4566,
     "dailyMinutesDown": {
       "2023-07-05": 29,
@@ -330,7 +330,7 @@
     "time": 4730,
     "timeDay": 5447,
     "timeWeek": 5547,
-    "timeMonth": 5892,
+    "timeMonth": 5888,
     "timeYear": 4730,
     "dailyMinutesDown": {
       "2023-09-01": 22,
@@ -345,8 +345,7 @@
       "2023-03-29": 16,
       "2023-03-13": 114,
       "2023-02-23": 17,
-      "2023-01-25": 46,
-      "2022-12-01": 23
+      "2023-01-25": 46
     }
   },
   {
@@ -363,7 +362,7 @@
     "time": 8386,
     "timeDay": 8224,
     "timeWeek": 9263,
-    "timeMonth": 7870,
+    "timeMonth": 7881,
     "timeYear": 8386,
     "dailyMinutesDown": {
       "2023-07-14": 27,
@@ -415,7 +414,7 @@
     "time": 5245,
     "timeDay": 5595,
     "timeWeek": 5570,
-    "timeMonth": 4977,
+    "timeMonth": 4876,
     "timeYear": 5245,
     "dailyMinutesDown": {
       "2023-04-06": 26,
@@ -438,7 +437,7 @@
     "time": 4955,
     "timeDay": 1105,
     "timeWeek": 1080,
-    "timeMonth": 1127,
+    "timeMonth": 1134,
     "timeYear": 4955,
     "dailyMinutesDown": {
       "2023-09-11": 20,
@@ -465,7 +464,7 @@
     "time": 3184,
     "timeDay": 5326,
     "timeWeek": 4974,
-    "timeMonth": 4953,
+    "timeMonth": 4920,
     "timeYear": 3184,
     "dailyMinutesDown": {
       "2023-04-06": 26,
