@@ -34,10 +34,10 @@
     "url": "https://$CA_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "cloud-assess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 952,
@@ -46,6 +46,7 @@
     "timeMonth": 2087,
     "timeYear": 1065,
     "dailyMinutesDown": {
+      "2024-02-08": 1,
       "2023-07-26": 16,
       "2023-03-31": 65
     }
@@ -348,9 +349,9 @@
     "slug": "victoris-webby",
     "status": "up",
     "uptime": "96.46%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 8512,
     "timeDay": 6799,
@@ -358,7 +359,6 @@
     "timeMonth": 8285,
     "timeYear": 9404,
     "dailyMinutesDown": {
-      "2024-02-08": 9,
       "2023-07-14": 27,
       "2023-07-05": 28,
       "2023-05-12": 33,
