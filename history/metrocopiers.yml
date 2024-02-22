@@ -1,7 +1,7 @@
 url: https://$MC_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-22T21:29:09.686Z
+status: up
+code: 200
+responseTime: 2209
+lastUpdated: 2024-02-22T21:34:17.978Z
 startTime: 2022-12-01T08:16:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
