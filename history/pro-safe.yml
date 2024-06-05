@@ -1,7 +1,7 @@
 url: https://$PS_SITE1/
-status: down
-code: 503
-responseTime: 1090
-lastUpdated: 2024-06-05T07:01:05.260Z
+status: up
+code: 200
+responseTime: 13084
+lastUpdated: 2024-06-05T07:08:48.621Z
 startTime: 2022-12-01T08:15:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
