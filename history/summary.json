@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2024-06-27": 1231,
+      "2024-06-27": 1236,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -222,7 +222,7 @@
     "timeMonth": 947,
     "timeYear": 2870,
     "dailyMinutesDown": {
-      "2024-06-27": 1231,
+      "2024-06-27": 1236,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -473,8 +473,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 4961,
-    "timeDay": 5607,
-    "timeWeek": 5375,
+    "timeDay": 5149,
+    "timeWeek": 5338,
     "timeMonth": 5572,
     "timeYear": 5064,
     "dailyMinutesDown": {
@@ -513,19 +513,19 @@
     "url": "https://$DR_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "dunn-right",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 5363,
-    "timeDay": 4807,
-    "timeWeek": 6891,
-    "timeMonth": 6697,
-    "timeYear": 5276,
+    "time": 5367,
+    "timeDay": 7414,
+    "timeWeek": 7282,
+    "timeMonth": 6801,
+    "timeYear": 5288,
     "dailyMinutesDown": {
-      "2024-06-27": 1
+      "2024-06-27": 4
     }
   },
   {
