@@ -4,19 +4,19 @@
     "url": "https://$FS_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "full-steam",
-    "status": "down",
+    "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 3439,
-    "timeDay": 2880,
-    "timeWeek": 4200,
-    "timeMonth": 3613,
-    "timeYear": 3298,
+    "time": 3443,
+    "timeDay": 2683,
+    "timeWeek": 3986,
+    "timeMonth": 3577,
+    "timeYear": 3296,
     "dailyMinutesDown": {
-      "2024-06-27": 1
+      "2024-06-27": 4
     }
   },
   {
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2024-06-27": 477,
+      "2024-06-27": 481,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -224,7 +224,7 @@
     "timeMonth": 947,
     "timeYear": 2870,
     "dailyMinutesDown": {
-      "2024-06-27": 477,
+      "2024-06-27": 481,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
