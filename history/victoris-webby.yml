@@ -1,7 +1,7 @@
 url: https://$VW_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-06T07:35:55.787Z
+status: up
+code: 200
+responseTime: 17058
+lastUpdated: 2024-07-06T07:40:01.581Z
 startTime: 2022-12-01T08:16:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
