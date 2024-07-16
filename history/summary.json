@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-07-16": 767,
+      "2024-07-16": 775,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -229,7 +229,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$lz_site1.ico",
     "slug": "lyson-nz",
     "status": "down",
-    "uptime": "69.34%",
+    "uptime": "69.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -240,7 +240,7 @@
     "timeMonth": 1001,
     "timeYear": 2845,
     "dailyMinutesDown": {
-      "2024-07-16": 767,
+      "2024-07-16": 775,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -481,19 +481,19 @@
     "url": "https://$HT_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ht_site1.ico",
     "slug": "hailer-training",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 4989,
-    "timeDay": 7218,
-    "timeWeek": 6476,
-    "timeMonth": 5719,
-    "timeYear": 4962,
+    "time": 4995,
+    "timeDay": 7400,
+    "timeWeek": 6614,
+    "timeMonth": 5775,
+    "timeYear": 4969,
     "dailyMinutesDown": {
-      "2024-07-16": 1
+      "2024-07-16": 8
     }
   },
   {
