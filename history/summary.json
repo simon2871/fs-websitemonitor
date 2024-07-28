@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2024-07-28": 655,
+      "2024-07-28": 659,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -251,7 +251,7 @@
     "timeMonth": 1056,
     "timeYear": 2837,
     "dailyMinutesDown": {
-      "2024-07-28": 655,
+      "2024-07-28": 659,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -541,19 +541,19 @@
     "url": "https://$VW_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$vw_site1.ico",
     "slug": "victoris-webby",
-    "status": "down",
+    "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 8969,
-    "timeDay": 7545,
-    "timeWeek": 8401,
-    "timeMonth": 8430,
-    "timeYear": 8322,
+    "time": 8942,
+    "timeDay": 7454,
+    "timeWeek": 8271,
+    "timeMonth": 8398,
+    "timeYear": 8319,
     "dailyMinutesDown": {
-      "2024-07-28": 1
+      "2024-07-28": 4
     }
   },
   {
