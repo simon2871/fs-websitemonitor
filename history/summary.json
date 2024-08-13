@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-08-13": 1212,
+      "2024-08-13": 1229,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -195,9 +195,9 @@
     "slug": "james-finance",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 5168,
     "timeDay": 4331,
@@ -205,7 +205,6 @@
     "timeMonth": 4852,
     "timeYear": 5228,
     "dailyMinutesDown": {
-      "2024-08-13": 8,
       "2024-01-17": 58
     }
   },
@@ -270,7 +269,7 @@
     "timeMonth": 1014,
     "timeYear": 2742,
     "dailyMinutesDown": {
-      "2024-08-13": 1212,
+      "2024-08-13": 1229,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -541,18 +540,19 @@
     "url": "https://$SZ_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$sz_site1.ico",
     "slug": "snow-boards-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 5187,
-    "timeDay": 5652,
-    "timeWeek": 5220,
-    "timeMonth": 5575,
+    "time": 5185,
+    "timeDay": 5467,
+    "timeWeek": 5227,
+    "timeMonth": 5569,
     "timeYear": 5277,
     "dailyMinutesDown": {
+      "2024-08-13": 1,
       "2023-09-01": 22,
       "2023-08-15": 18
     }
