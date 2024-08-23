@@ -1,7 +1,7 @@
 url: https://$CA_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-23T23:26:33.871Z
+status: up
+code: 200
+responseTime: 1550
+lastUpdated: 2024-08-23T23:31:39.069Z
 startTime: 2022-12-01T08:15:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
