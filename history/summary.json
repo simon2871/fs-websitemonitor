@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-09-03": 1086,
+      "2024-09-03": 1098,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -257,18 +257,19 @@
     "url": "https://$PS_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ps_site1.ico",
     "slug": "pro-safe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 9275,
+    "time": 9268,
     "timeDay": 9846,
     "timeWeek": 10214,
     "timeMonth": 8660,
     "timeYear": 9030,
     "dailyMinutesDown": {
+      "2024-09-03": 3,
       "2024-02-22": 18,
       "2024-02-14": 28,
       "2024-02-06": 16
@@ -291,7 +292,7 @@
     "timeMonth": 1000,
     "timeYear": 2621,
     "dailyMinutesDown": {
-      "2024-09-03": 1086,
+      "2024-09-03": 1098,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -563,19 +564,19 @@
     "url": "https://$HT_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ht_site1.ico",
     "slug": "hailer-training",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5104,
+    "time": 5105,
     "timeDay": 5812,
     "timeWeek": 5537,
     "timeMonth": 5981,
     "timeYear": 5191,
     "dailyMinutesDown": {
-      "2024-09-03": 6
+      "2024-09-03": 2
     }
   },
   {
@@ -583,37 +584,39 @@
     "url": "https://$SZ_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$sz_site1.ico",
     "slug": "snow-boards-nz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5314,
+    "time": 5321,
     "timeDay": 6462,
     "timeWeek": 6154,
     "timeMonth": 5829,
     "timeYear": 5516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 1
+    }
   },
   {
     "name": "Victoris Webby",
     "url": "https://$VW_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$vw_site1.ico",
     "slug": "victoris-webby",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8595,
+    "time": 8584,
     "timeDay": 8263,
     "timeWeek": 9228,
     "timeMonth": 8299,
     "timeYear": 8436,
     "dailyMinutesDown": {
-      "2024-09-03": 4
+      "2024-09-03": 1
     }
   },
   {
@@ -645,7 +648,7 @@
     "uptime": "96.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.74%",
+    "uptimeMonth": "32.71%",
     "uptimeYear": "94.32%",
     "time": 4987,
     "timeDay": 0,
@@ -653,7 +656,7 @@
     "timeMonth": 2270,
     "timeYear": 2668,
     "dailyMinutesDown": {
-      "2024-09-03": 1086,
+      "2024-09-03": 1098,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
