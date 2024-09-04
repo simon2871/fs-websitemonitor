@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-09-04": 1359,
+      "2024-09-04": 1364,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 999,
     "timeYear": 2619,
     "dailyMinutesDown": {
-      "2024-09-04": 1360,
+      "2024-09-04": 1364,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -601,19 +601,19 @@
     "url": "https://$VW_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$vw_site1.ico",
     "slug": "victoris-webby",
-    "status": "down",
+    "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 8584,
-    "timeDay": 10629,
-    "timeWeek": 10437,
-    "timeMonth": 8700,
-    "timeYear": 8469,
+    "time": 8591,
+    "timeDay": 11990,
+    "timeWeek": 10765,
+    "timeMonth": 8858,
+    "timeYear": 8484,
     "dailyMinutesDown": {
-      "2024-09-04": 1
+      "2024-09-04": 4
     }
   },
   {
@@ -645,7 +645,7 @@
     "uptime": "96.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.83%",
+    "uptimeMonth": "28.82%",
     "uptimeYear": "94.00%",
     "time": 4978,
     "timeDay": 0,
@@ -653,7 +653,7 @@
     "timeMonth": 2247,
     "timeYear": 2672,
     "dailyMinutesDown": {
-      "2024-09-04": 1360,
+      "2024-09-04": 1364,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
