@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-09-08": 1303,
+      "2024-09-08": 1315,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -242,9 +242,9 @@
     "slug": "hailer-rail",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 11569,
     "timeDay": 12918,
@@ -252,7 +252,6 @@
     "timeMonth": 11969,
     "timeYear": 11547,
     "dailyMinutesDown": {
-      "2024-09-08": 5,
       "2023-12-01": 26,
       "2023-11-30": 16,
       "2023-10-24": 24
@@ -263,11 +262,11 @@
     "url": "https://$PS_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ps_site1.ico",
     "slug": "pro-safe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 9098,
     "timeDay": 9262,
@@ -275,6 +274,7 @@
     "timeMonth": 8982,
     "timeYear": 9048,
     "dailyMinutesDown": {
+      "2024-09-08": 2,
       "2024-02-22": 18,
       "2024-02-14": 28,
       "2024-02-06": 16
@@ -297,7 +297,7 @@
     "timeMonth": 962,
     "timeYear": 2611,
     "dailyMinutesDown": {
-      "2024-09-08": 1303,
+      "2024-09-08": 1315,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -574,18 +574,20 @@
     "url": "https://$HT_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ht_site1.ico",
     "slug": "hailer-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5081,
+    "time": 5083,
     "timeDay": 8000,
     "timeWeek": 5663,
     "timeMonth": 5718,
     "timeYear": 5214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 1
+    }
   },
   {
     "name": "Snow Boards NZ",
@@ -652,7 +654,7 @@
     "uptime": "95.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.81%",
+    "uptimeMonth": "15.78%",
     "uptimeYear": "92.92%",
     "time": 4932,
     "timeDay": 0,
@@ -660,7 +662,7 @@
     "timeMonth": 2566,
     "timeYear": 2692,
     "dailyMinutesDown": {
-      "2024-09-08": 1303,
+      "2024-09-08": 1316,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
