@@ -1,7 +1,7 @@
 url: https://$DR_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-23T20:41:50.635Z
+status: up
+code: 200
+responseTime: 10283
+lastUpdated: 2024-10-23T20:47:20.025Z
 startTime: 2022-12-01T08:16:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
