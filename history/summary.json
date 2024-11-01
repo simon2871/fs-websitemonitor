@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2024-11-01": 1163,
+      "2024-11-01": 1169,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -345,7 +345,7 @@
     "uptime": "60.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.30%",
+    "uptimeMonth": "33.31%",
     "uptimeYear": "30.88%",
     "time": 2544,
     "timeDay": 426,
@@ -674,19 +674,19 @@
     "url": "https://$SZ_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$sz_site1.ico",
     "slug": "snow-boards-nz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 5510,
-    "timeDay": 5487,
-    "timeWeek": 6522,
-    "timeMonth": 5952,
-    "timeYear": 5746,
+    "time": 5513,
+    "timeDay": 5754,
+    "timeWeek": 6496,
+    "timeMonth": 5960,
+    "timeYear": 5747,
     "dailyMinutesDown": {
-      "2024-11-01": 1
+      "2024-11-01": 6
     }
   },
   {
@@ -747,7 +747,7 @@
     "timeMonth": 0,
     "timeYear": 2977,
     "dailyMinutesDown": {
-      "2024-11-01": 1163,
+      "2024-11-01": 1169,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
