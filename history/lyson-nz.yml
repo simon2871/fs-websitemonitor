@@ -1,7 +1,7 @@
 url: https://$LZ_SITE1/
-status: down
-code: 502
-responseTime: 5395
-lastUpdated: 2024-12-19T09:42:28.649Z
+status: up
+code: 200
+responseTime: 1053
+lastUpdated: 2024-12-19T09:47:41.905Z
 startTime: 2022-12-01T08:15:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
