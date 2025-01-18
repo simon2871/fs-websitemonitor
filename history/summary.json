@@ -29,9 +29,9 @@
     "slug": "cloud-assess",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1960,
     "timeDay": 1855,
@@ -39,7 +39,6 @@
     "timeMonth": 1812,
     "timeYear": 1993,
     "dailyMinutesDown": {
-      "2025-01-18": 5,
       "2025-01-02": 18,
       "2024-12-30": 21,
       "2024-12-17": 26,
@@ -70,7 +69,7 @@
     "timeMonth": 0,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2025-01-18": 700,
+      "2025-01-18": 705,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -379,19 +378,19 @@
     "url": "https://$HR_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$hr_site1.ico",
     "slug": "hailer-rail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 11591,
-    "timeDay": 7345,
-    "timeWeek": 11252,
-    "timeMonth": 11558,
-    "timeYear": 11504,
+    "time": 11593,
+    "timeDay": 9034,
+    "timeWeek": 11349,
+    "timeMonth": 11581,
+    "timeYear": 11506,
     "dailyMinutesDown": {
-      "2025-01-18": 6
+      "2025-01-18": 10
     }
   },
   {
@@ -699,9 +698,9 @@
     "slug": "hailer-training",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5385,
     "timeDay": 4188,
@@ -709,7 +708,6 @@
     "timeMonth": 5541,
     "timeYear": 5734,
     "dailyMinutesDown": {
-      "2025-01-18": 5,
       "2024-11-06": 16
     }
   },
@@ -730,7 +728,7 @@
     "timeMonth": 0,
     "timeYear": 5789,
     "dailyMinutesDown": {
-      "2025-01-18": 700,
+      "2025-01-18": 705,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -796,9 +794,9 @@
     "slug": "victoris-webby",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 8666,
     "timeDay": 7134,
@@ -806,7 +804,6 @@
     "timeMonth": 9117,
     "timeYear": 8808,
     "dailyMinutesDown": {
-      "2025-01-18": 4,
       "2024-10-17": 18,
       "2024-10-12": 31
     }
@@ -849,7 +846,7 @@
     "timeMonth": 0,
     "timeYear": 3185,
     "dailyMinutesDown": {
-      "2025-01-18": 700,
+      "2025-01-18": 705,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
