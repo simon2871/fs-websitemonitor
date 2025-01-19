@@ -62,14 +62,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.76%",
+    "uptimeYear": "22.75%",
     "time": 1542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-01-18": 1428,
+      "2025-01-19": 21,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -360,9 +361,9 @@
     "slug": "james-finance",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5246,
     "timeDay": 5927,
@@ -370,7 +371,6 @@
     "timeMonth": 5309,
     "timeYear": 5275,
     "dailyMinutesDown": {
-      "2025-01-18": 5,
       "2024-08-29": 20
     }
   },
@@ -381,18 +381,16 @@
     "slug": "hailer-rail",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11583,
     "timeDay": 11470,
     "timeWeek": 11302,
     "timeMonth": 11608,
     "timeYear": 11504,
-    "dailyMinutesDown": {
-      "2025-01-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pro Safe",
@@ -688,8 +686,7 @@
       "2024-08-02": 24,
       "2024-02-11": 96,
       "2024-02-09": 42,
-      "2024-01-22": 25,
-      "2024-01-20": 16
+      "2024-01-22": 25
     }
   },
   {
@@ -699,9 +696,9 @@
     "slug": "hailer-training",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5387,
     "timeDay": 4335,
@@ -709,7 +706,6 @@
     "timeMonth": 5503,
     "timeYear": 5733,
     "dailyMinutesDown": {
-      "2025-01-18": 4,
       "2024-11-06": 16
     }
   },
@@ -730,7 +726,8 @@
     "timeMonth": 0,
     "timeYear": 5790,
     "dailyMinutesDown": {
-      "2025-01-18": 1428,
+      "2025-01-19": 21,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -841,14 +838,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.75%",
+    "uptimeYear": "56.74%",
     "time": 2879,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3189,
     "dailyMinutesDown": {
-      "2025-01-18": 1429,
+      "2025-01-19": 21,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
