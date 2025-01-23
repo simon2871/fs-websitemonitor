@@ -27,18 +27,19 @@
     "url": "https://$CA_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ca_site1.ico",
     "slug": "cloud-assess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 1916,
-    "timeDay": 2022,
+    "time": 1918,
+    "timeDay": 2019,
     "timeWeek": 1811,
     "timeMonth": 1812,
     "timeYear": 1985,
     "dailyMinutesDown": {
+      "2025-01-23": 2,
       "2025-01-02": 18,
       "2024-12-30": 21,
       "2024-12-17": 26,
@@ -69,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 1576,
     "dailyMinutesDown": {
-      "2025-01-23": 355,
+      "2025-01-23": 372,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -365,9 +366,9 @@
     "slug": "james-finance",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5255,
     "timeDay": 5231,
@@ -375,7 +376,6 @@
     "timeMonth": 5407,
     "timeYear": 5280,
     "dailyMinutesDown": {
-      "2025-01-23": 5,
       "2024-08-29": 20
     }
   },
@@ -386,18 +386,16 @@
     "slug": "hailer-rail",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11613,
     "timeDay": 11528,
     "timeWeek": 11467,
     "timeMonth": 11830,
     "timeYear": 11518,
-    "dailyMinutesDown": {
-      "2025-01-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pro Safe",
@@ -406,9 +404,9 @@
     "slug": "pro-safe",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 9368,
     "timeDay": 8861,
@@ -416,7 +414,6 @@
     "timeMonth": 9895,
     "timeYear": 9830,
     "dailyMinutesDown": {
-      "2025-01-23": 4,
       "2024-12-17": 29,
       "2024-02-22": 18,
       "2024-02-14": 28,
@@ -703,9 +700,9 @@
     "slug": "hailer-training",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5422,
     "timeDay": 7114,
@@ -713,7 +710,6 @@
     "timeMonth": 5608,
     "timeYear": 5743,
     "dailyMinutesDown": {
-      "2025-01-23": 4,
       "2024-11-06": 16
     }
   },
@@ -723,7 +719,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$sz_site1.ico",
     "slug": "snow-boards-nz",
     "status": "down",
-    "uptime": "92.24%",
+    "uptime": "92.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -734,7 +730,7 @@
     "timeMonth": 0,
     "timeYear": 5793,
     "dailyMinutesDown": {
-      "2025-01-23": 355,
+      "2025-01-23": 372,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -805,9 +801,9 @@
     "slug": "victoris-webby",
     "status": "up",
     "uptime": "98.03%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 8682,
     "timeDay": 7467,
@@ -815,7 +811,6 @@
     "timeMonth": 8993,
     "timeYear": 8799,
     "dailyMinutesDown": {
-      "2025-01-23": 4,
       "2024-10-17": 18,
       "2024-10-12": 31
     }
@@ -827,9 +822,9 @@
     "slug": "dunn-right",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 5746,
     "timeDay": 6621,
@@ -837,7 +832,6 @@
     "timeMonth": 6734,
     "timeYear": 6165,
     "dailyMinutesDown": {
-      "2025-01-23": 3,
       "2025-01-02": 21,
       "2024-06-29": 24
     }
@@ -859,7 +853,7 @@
     "timeMonth": 0,
     "timeYear": 3197,
     "dailyMinutesDown": {
-      "2025-01-23": 356,
+      "2025-01-23": 372,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -1033,9 +1027,9 @@
     "slug": "anibt",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5023,
     "timeDay": 5068,
@@ -1043,7 +1037,6 @@
     "timeMonth": 5184,
     "timeYear": 5020,
     "dailyMinutesDown": {
-      "2025-01-23": 3,
       "2024-10-03": 19
     }
   }
