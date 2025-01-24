@@ -27,19 +27,19 @@
     "url": "https://$CA_SITE1/",
     "icon": "https://icons.duckduckgo.com/ip3/$ca_site1.ico",
     "slug": "cloud-assess",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
-    "time": 1929,
-    "timeDay": 1818,
-    "timeWeek": 1847,
-    "timeMonth": 1814,
+    "time": 1931,
+    "timeDay": 1721,
+    "timeWeek": 1835,
+    "timeMonth": 1811,
     "timeYear": 1985,
     "dailyMinutesDown": {
-      "2025-01-24": 1,
+      "2025-01-24": 5,
       "2025-01-02": 18,
       "2024-12-30": 21,
       "2024-12-17": 26,
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-01-24": 836,
+      "2025-01-24": 841,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -367,9 +367,9 @@
     "slug": "james-finance",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "43.21%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "42.88%",
+    "uptimeWeek": "91.84%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.84%",
     "time": 5261,
     "timeDay": 6757,
@@ -377,7 +377,7 @@
     "timeMonth": 5546,
     "timeYear": 5293,
     "dailyMinutesDown": {
-      "2025-01-24": 818,
+      "2025-01-24": 822,
       "2024-08-29": 20
     }
   },
@@ -388,9 +388,9 @@
     "slug": "hailer-rail",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "43.25%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "42.92%",
+    "uptimeWeek": "91.85%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "99.84%",
     "time": 11619,
     "timeDay": 10453,
@@ -398,7 +398,7 @@
     "timeMonth": 11856,
     "timeYear": 11513,
     "dailyMinutesDown": {
-      "2025-01-24": 817
+      "2025-01-24": 822
     }
   },
   {
@@ -733,7 +733,7 @@
     "timeMonth": 0,
     "timeYear": 5796,
     "dailyMinutesDown": {
-      "2025-01-24": 836,
+      "2025-01-24": 841,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -826,9 +826,9 @@
     "slug": "dunn-right",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "43.30%",
-    "uptimeWeek": "91.90%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "42.97%",
+    "uptimeWeek": "91.85%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.84%",
     "time": 5760,
     "timeDay": 7574,
@@ -836,7 +836,7 @@
     "timeMonth": 6698,
     "timeYear": 6182,
     "dailyMinutesDown": {
-      "2025-01-24": 816,
+      "2025-01-24": 821,
       "2025-01-02": 21,
       "2024-06-29": 24
     }
@@ -858,7 +858,7 @@
     "timeMonth": 0,
     "timeYear": 3183,
     "dailyMinutesDown": {
-      "2025-01-24": 837,
+      "2025-01-24": 841,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
