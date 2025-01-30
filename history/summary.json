@@ -31,7 +31,7 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 1943,
     "timeDay": 1895,
@@ -69,7 +69,8 @@
     "timeMonth": 0,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2025-01-29": 1432,
+      "2025-01-30": 19,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -393,9 +394,9 @@
     "slug": "hailer-rail",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "80.54%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "80.59%",
+    "uptimeMonth": "95.53%",
     "uptimeYear": "99.63%",
     "time": 11585,
     "timeDay": 11800,
@@ -403,7 +404,6 @@
     "timeMonth": 11670,
     "timeYear": 11504,
     "dailyMinutesDown": {
-      "2025-01-29": 5,
       "2025-01-25": 535,
       "2025-01-24": 1421
     }
@@ -710,9 +710,9 @@
     "slug": "hailer-training",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5484,
     "timeDay": 4491,
@@ -720,7 +720,6 @@
     "timeMonth": 5475,
     "timeYear": 5723,
     "dailyMinutesDown": {
-      "2025-01-29": 5,
       "2024-11-06": 16
     }
   },
@@ -734,14 +733,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.56%",
+    "uptimeYear": "81.55%",
     "time": 5716,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5820,
     "dailyMinutesDown": {
-      "2025-01-29": 1432,
+      "2025-01-30": 19,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -872,7 +872,8 @@
     "timeMonth": 0,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2025-01-29": 1432,
+      "2025-01-30": 19,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
