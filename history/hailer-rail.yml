@@ -1,7 +1,7 @@
 url: https://$HR_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-27T23:46:49.419Z
+status: up
+code: 200
+responseTime: 12293
+lastUpdated: 2025-02-27T23:52:00.185Z
 startTime: 2022-12-01T08:15:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
