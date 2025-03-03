@@ -1,7 +1,7 @@
 url: https://$JF_SITE1/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-03T23:36:52.007Z
+status: up
+code: 200
+responseTime: 8273
+lastUpdated: 2025-03-03T23:41:53.449Z
 startTime: 2022-12-01T08:15:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
